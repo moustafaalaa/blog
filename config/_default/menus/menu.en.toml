@@ -20,7 +20,7 @@
 [[main]]
   parent = "Links"
   name = "Twitter"
-  url = "https://twitter.com/moustafa_alaa22/"
+  url = "https://twitter.com/moustafa_alaa22"
 
 [[main]]
   name = "About"
@@ -33,11 +33,11 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/moustafaalaa/"
+  url = "https://github.com/moustafaalaa"
 [[social]]
   name = "twitter"
   weight = 2
-  url = "https://twitter.com/moustafa_alaa22/"
+  url = "https://twitter.com/moustafa_alaa22"
 [[social]]
   name = "linkedin"
   weight = 3
@@ -49,7 +49,7 @@
 
 # other supported social links
 name = "youtube"
-url = "https://www.youtube.com/c/GarageEducation"
+url = "https://www.youtube.com/c/GarageEducation/"
 # name = "facebook"
 # url = "https://facebook.com/#"
 # name = "instagram"
